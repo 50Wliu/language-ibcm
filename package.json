@@ -1,6 +1,6 @@
 {
   "name": "language-ibcm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "IBCM (Itty Bitty Computing Machine) language support in Atom",
   "keywords": [
     "language",
