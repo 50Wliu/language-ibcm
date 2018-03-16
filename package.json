@@ -1,12 +1,15 @@
 {
   "name": "language-ibcm",
   "version": "0.0.0",
-  "description": "A short description of your language package",
+  "description": "IBCM (Itty Bitty Computing Machine) language support in Atom",
   "keywords": [
     "language",
-    "grammar"
+    "grammar",
+    "ibcm",
+    "uva",
+    "cs2150"
   ],
-  "repository": "https://github.com/atom/language-ibcm",
+  "repository": "https://github.com/50Wliu/language-ibcm",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
