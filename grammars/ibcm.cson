@@ -4,4 +4,14 @@
   'ibcm'
 ]
 'patterns': [
+  {
+    'match': '^([A-Fa-f0-9]{4})(.*)'
+    'captures':
+      '2':
+        'name': 'comment.ibcm'
+  }
+  {
+    'match': '[^A-Fa-f0-9].*'
+    'name': 'invalid.illegal.ibcm'
+  }
 ]
